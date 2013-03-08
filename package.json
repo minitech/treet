@@ -1,0 +1,13 @@
+{
+	"name": "treet",
+	"version": "0.1.0",
+	"description": "Formats objects as trees.",
+	"keywords": ["tree", "format"],
+	"files": ["treet.js"],
+	"main": "treet.js",
+	"homepage": "https://github.com/minitech/treet",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/minitech/treet"
+	}
+}
